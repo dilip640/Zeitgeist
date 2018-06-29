@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="125px" height="180px" viewBox="0 0 125 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>egg-top-outline</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="egg-top-outline" stroke="#000000" stroke-width="2">
+            <g id="Group" transform="translate(15.000000, 5.000000)">
+                <path d="M5.12999363,39.2507962 L4.13816665,38.197952 L5.7623122,37.9557785 C5.54993449,38.3849432 5.33915212,38.8166428 5.12999363,39.2507962 Z M42.8391864,79.2798589 L5.12999363,39.2507962 C3.86755077,41.871268 2.66426748,44.5811391 1.52641587,47.3626392 L-0.324686156,46.6053933 C11.5601002,17.5528048 28.8884453,-1.01532128 47.9807995,-0.999990452 C66.0180532,-0.985570049 82.4128526,16.3248232 93.8693859,43.9675315 L94.0943437,44.5103173 L78.5366277,64.16626 L52.4716319,49.7269081 L59.1375734,88.9359157 L41.4081243,79.8788686 L42.8391864,79.2798589 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
